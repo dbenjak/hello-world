@@ -1,2 +1,6 @@
 # hello-world
-hello world git repo
+
+Howdy!
+
+I'm software developer and looking for new chalenges.
+I like sarma and kulen :)
